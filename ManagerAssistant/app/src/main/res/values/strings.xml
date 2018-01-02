@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ManagerAssistant</string>
+    <!--安全监测-->
+    <string name="personnel">人员定位</string>
+    <string name="personnel1">统计</string>
+    <string name="personnel2">分站</string>
+    <string name="personnel3">部门</string>
+    <string name="personnel4">职位</string>
+    <string name="personnel5">查询</string>
+    <string name="personnel6">早班人数</string>
+    <string name="personnel7">中班人数</string>
+    <string name="personnel8">晚班人数</string>
+
+    <!--登录-->
+    <string name="login_hint_id">请输入id</string>
+    <string name="login_hint_password">请输入密码</string>
+    <string name="login">登入</string>
+    <string name="login_001">账号不能为空，请输入账号</string>
+    <string name="login_002">密码不能为空，请输入密码</string>
+    <string name="login_003">登录成功！</string>
+    <string name="login_004">登录失败！请输入正确的用户名和密码</string>
+
+    <!--修改密码-->
+    <string name="resetpwd_hint_001">请输入用户名</string>
+    <string name="resetpwd_hint_002">请输入旧密码</string>
+    <string name="resetpwd_hint_003">请输入新密码</string>
+    <string name="resetpwd_001">确定</string>
+    <string name="resetpwd_002">取消</string>
+    <string name="resetpwd_003">账号不存在，请重新输入</string>
+    <string name="resetpwd_004">账号不能为空，请输入账号</string>
+    <string name="resetpwd_005">密码不能为空，请输入密码</string>
+    <string name="resetpwd_006">新密码不能为空，请输入密码</string>
+    <string name="resetpwd_007">新密码确认不能为空，请输入密码</string>
+    <string name="resetpwd_008">新密码不能与旧密码相同，请重新输入</string>
+    <string name="resetpwd_009">2次密码输入不一致，请重新输入</string>
+    <string name="resetpwd_010">密码修改失败，请重新尝试</string>
+    <string name="resetpwd_011">密码修改成功</string>
+    <string name="resetpwd_012">密码不正确，请重新输入</string>
+
+    <!--home-->
+    <string name="basedata">基础数据</string>
+    <string name="warning">安全预警</string>
+    <string name="message">消息中心</string>
+    <string name="basedata_title">【基础数据】</string>
+    <string name="basedata_message">(安全管理方面)...</string>
+    <string name="basedata_time">2017-1-20 15:29:20</string>
+    <string name="click_item">你点击了item</string>
+    <string name="click_title">你点击了title</string>
+</resources>
